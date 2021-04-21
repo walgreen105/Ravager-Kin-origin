@@ -1,0 +1,11 @@
+{
+    "powers": [
+            "ravager-kin:sturdy"
+    ],
+
+    "icon": "minecraft:saddle",
+    "order": 0,
+    "impact": 2,
+    "name": "Ravager-Kin",
+    "description": "An illager experiment, something between their normal kind and the massive illager beasts known as ravagers"
+}
