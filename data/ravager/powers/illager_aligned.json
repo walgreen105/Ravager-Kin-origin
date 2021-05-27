@@ -1,0 +1,7 @@
+{
+   "name": "Illager Aligned",
+   "description": "Villagers don't like you and iron golems attack you",
+    "type": "origins:entity_group",
+    "group": "illager",
+    "hidden": true
+}

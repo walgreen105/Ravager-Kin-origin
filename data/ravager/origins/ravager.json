@@ -1,0 +1,19 @@
+{
+    "powers": [
+        "ravager:sturdy",
+        "ravager:hard_hitting",
+        "ravager:thick_skin",
+        "ravager:charge",
+        "ravager:immense",
+        "ravager:illager_aligned",
+        "moborigins:pillager_aligned",
+        "ravager:bigger_they_are",
+        "ravager:clumsy",
+        "ravager:heavy_footed"
+    ],
+        "icon": "minecraft:saddle",
+        "impact": 2,
+        "order": 1,
+        "name": "Ravager-Kin",
+        "description": "An illager experiment, something between their normal kind and the massive illager beasts known as ravagers"
+}
